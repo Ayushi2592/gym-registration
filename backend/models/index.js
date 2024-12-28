@@ -16,3 +16,15 @@ module.exports = {
   Batch,
   Registration,
 };
+
+/*var express = require("express");
+var app = express();
+var connection = require('./database');
+
+app.get('/',function(req,res){
+  res.send('Hey');
+});
+
+app.listen(3000,function(){
+  console.log('App Listening on port 3000');
+});*/
